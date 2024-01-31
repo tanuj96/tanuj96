@@ -4,9 +4,9 @@ Contact:
 📧 mittaltanuj01@gmail.com
 📍 Jaipur, Rajasthan
 📞 +91-8112257297
-🌐 Portfolio: https://tanujmittal-portfolio.vercel.app/
+🌐 Portfolio: https://mittal-tanuj.com
 
-LinkedIn: https://www.linkedin.com/in/tanuj-mittal96/
+LinkedIn: https://www.linkedin.com/in/tanuj05
 
 Key Skills:
 ✨ Coding
